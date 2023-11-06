@@ -15,4 +15,4 @@ const read = () => {
 
 
 
-markAllAsRead.addEventListener('click', read) 
+markAllAsRead.addEventListener('click', read)
